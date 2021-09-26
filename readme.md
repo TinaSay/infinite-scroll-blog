@@ -2,6 +2,10 @@
 
 Display blog posts from [jsonplaceholder](https://jsonplaceholder.typicode.com) and add infinite scroll to fetch posts and also add filter box
 
+## Demo
+
+https://tinasay.github.io/infinite-scroll-blog/
+
 ## Project Specifications
 
 - Create UI & custom CSS loader animation
